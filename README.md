@@ -11,7 +11,4 @@ Cette image montre comment se connecter a la base de donnéé avec nom = Macon
 <img width="700" alt="login" src="https://user-images.githubusercontent.com/123521450/219991874-a1dfb753-e211-417d-aa4a-1841bd1bfef1.PNG">
 
 Cette image montre comment recuperer l'ensemble des elements dans notre bse de données
-<img width="700" alt="login" src="https://user-images.githubusercontent.com/123521450/219992082-e34a31b9-f404-47c7-b947-83e7fd332fd5.PNG">
-
-
-
+<img width="896" alt="allf" src="https://user-images.githubusercontent.com/123521450/219992195-4809fbdb-a225-4047-8403-a8cf1414b7ad.PNG">
